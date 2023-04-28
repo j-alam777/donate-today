@@ -1,11 +1,9 @@
 .header{
         text-align: center;
         color: red;
-        background: linear-gradient(rgba(71, 211, 30, 1), rgba(211, 60, 41, 0)), url(images/donation1.jpg);
-        height: 500px;
-        background-repeat: no-repeat;
+        background: linear-gradient(to right, rgba(22, 252, 133, 0.7), rgba(210, 19, 93, 0.7)),
+        url('images/donation0.jpg');
         background-size: cover;
-
-
+        height: 500px;
+        
         }
-

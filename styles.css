@@ -8,7 +8,10 @@
         background-size: cover;
         height: 500px;
         }
-
+h2{
+        font-size: 45px;
+        font-family: Arial, Helvetica, sans-serif;
+}
        
 p       {
         font-size: 25px;
@@ -101,14 +104,23 @@ h1      {
         border: solid;
         border-color: antiquewhite;
         border-radius: 5px;
-}
+        }
 
 .lives-survive h2{
         font-size: 50px;
         }
-/* .lives{
+.lives{
         display: flex;
-} */
+        }
+
+.survive{
+        display: flex;
+
+        }
+
+.get-update{
+        text-align: center;
+        }
 
 .footer{
         padding-top: 50px;

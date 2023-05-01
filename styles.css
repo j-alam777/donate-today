@@ -32,8 +32,9 @@ p       {
         font-weight: 700;
        
         }
-        hr{
-                width: 1000px;
+
+hr      {
+        width: 950px;
         }
 h4      {
         font-size: 25px;
@@ -43,12 +44,25 @@ ul     {
         display: flex;
         list-style: none;  
         justify-content:space-around;
-        margin: 0 430px 0 430px ;
+        margin: 0 420px 0 420px ;
         width: 1000px;
         }
+li      {
+        background-color: #f6f4f3;
+        margin: 50px 5px 50px 5px;
+        padding: 50px 10px 50px 10px;
+        border-radius: 5px;
+        }
+
 h1      {
         font-size: 100px;
         
+        }
+.our-donation-plan{
+        text-align: center;
+        }
+.donation-plan{
+        display: flex;
         }
 
 

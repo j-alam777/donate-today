@@ -60,11 +60,48 @@ h1      {
         }
 .our-donation-plan{
         text-align: center;
-        }
-.donation-plan{
-        display: flex;
-        }
+        
+        
+        } 
 
+.donation-container{
+        display: flex;
+        gap: 30px;
+        margin: 80px 200px 30px 200px;
+        text-align: left;
+        
+
+}
+
+.donation-plan1{
+        background-color: bisque;
+        padding: 50px;
+        box-shadow: #fadfd2;
+        box-sizing: border-box;
+        border: solid;
+        border-color: antiquewhite;
+        border-radius: 5px;
+}
+
+.donation-plan2{
+        background-color: rgb(179, 155, 126);
+        padding: 50px;
+        box-shadow: #8e8079;
+        box-sizing: border-box;
+        border: solid;
+        border-color: antiquewhite;
+        border-radius: 5px;
+}
+
+.donation-plan3{
+        background-color: rgb(241, 166, 73);
+        padding: 50px;
+        box-shadow: #604335;
+        box-sizing: border-box;
+        border: solid;
+        border-color: antiquewhite;
+        border-radius: 5px;
+}
 
 .footer{
         padding-top: 50px;

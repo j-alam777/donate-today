@@ -56,7 +56,11 @@ li      {
         padding: 50px 10px 50px 10px;
         border-radius: 5px;
         }
-
+        li:hover      {
+                color: aqua;
+                font-weight: 800;
+                background-color: bisque;
+                }
 h1      {
         font-size: 100px;
         
